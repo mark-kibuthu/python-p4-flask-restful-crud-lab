@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "react-scripts build",
-    "start": "react-scripts start"
+    "start":  "PORT=4000 react-scripts start"
   },
   "eslintConfig": {
     "extends": [
